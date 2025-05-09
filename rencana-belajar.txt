@@ -5,3 +5,4 @@ Rencana Belajar
 - Belajar Webdev
   1. Javascript
   2. PHP
+  3. Next.js
