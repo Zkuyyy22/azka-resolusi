@@ -6,3 +6,5 @@ Rencana Belajar
   1. Javascript
   2. PHP
   3. Next.js
+  4. Vue.js
+- Belajar Inggris
