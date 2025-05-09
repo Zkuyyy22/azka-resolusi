@@ -1,5 +1,4 @@
 Rencana Belajar
-- Belajar GIT
 - Belajar Python
 - Belajar Excel
 - Belajar Webdev
