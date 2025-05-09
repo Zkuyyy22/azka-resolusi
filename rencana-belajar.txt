@@ -1,0 +1,7 @@
+Rencana Belajar
+- Belajar GIT
+- Belajar Python
+- Belajar Excel
+- Belajar Webdev
+  1. Javascript
+  2. PHP
