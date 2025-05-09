@@ -1,8 +1,8 @@
 Rencana Belajar
-- Belajar GIT
 - Belajar Python
 - Belajar Excel
 - Belajar Webdev
   1. Javascript
   2. PHP
   3. Next.js
+  4. Angular
